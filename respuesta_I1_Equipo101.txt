@@ -1,0 +1,10 @@
+Apellido    Nombre     
+Arellano    Lautaro Oscar
+Iara 	    Spinelli
+Cruz        Eduardo
+
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+   ALFA si ve los datos que cargaron sus compañeros
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven? 
+  Si
